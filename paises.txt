@@ -3,3 +3,5 @@ Brasil
 Argentina
 Japón
 España
+Ecuador
+Chile
